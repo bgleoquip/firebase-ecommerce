@@ -1,7 +1,10 @@
 {
-  "name": "react-redux-firebase-ecommerce",
-  "version": "0.1.0",
+  "name": "bg-firebase-ecommerce",
+  "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": "12.11.1"
+    },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
